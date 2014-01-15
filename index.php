@@ -21,7 +21,7 @@
           <a id="forkme_banner" href="https://github.com/jsnikolov/Programming" title="Programming">
 			View on GitHub
 		  </a>
-          <h1 id="project_title">JSNikolov <?php echo $c; ?></h1>
+          <h1 id="project_title">JSNikolov <?php echo $c; ?> + PHP</h1>
           <h2 id="project_tagline"></h2>
         </header>
     </div>
