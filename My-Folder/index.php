@@ -1,0 +1,20 @@
+<?php
+
+?>
+<!doctype html>
+<html>
+  <head>
+    <title>My Folder</title>
+    <style>
+      div#wrapper{
+          border:1px solid red;
+          text-align:center;
+      }
+    </style>
+  </head>
+  <body>
+    <div id = "wrapper" >
+      <a href="http://abv.bg">My-Folder - Link</a>
+    </div>
+  </body>
+</html>
